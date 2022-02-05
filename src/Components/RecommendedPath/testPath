@@ -1,0 +1,101 @@
+[true,
+    [
+                {
+                    "_id": "1",
+                    "prerequisites": [],
+                    "skills": [
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1"
+                    ],
+                    "averageDuration": {
+                        "days": 0,
+                        "hours": 12
+                    }
+                },
+                {
+                    "_id": "2",
+                    "prerequisites": [
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1"
+                    ],
+                    "skills": [
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28"
+                    ],
+                    "averageDuration": {
+                        "days": 4,
+                        "hours": 12
+                    }
+                },
+                {
+                    "_id": "3",
+                    "prerequisites": [
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28"
+                    ],
+                    "skills": [
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4"
+                    ],
+                    "averageDuration": {
+                        "days": 1,
+                        "hours": 16
+                    }
+                },
+                {
+                    "_id": "4",
+                    "prerequisites": [
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4"
+                    ],
+                    "skills": [
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c2999f0c-eb37-4cdf-b9b0-82107b628794"
+                    ],
+                    "averageDuration": {
+                        "days": 0,
+                        "hours": 18
+                    }
+                },
+                {
+                    "_id": "5",
+                    "prerequisites": [
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/c2999f0c-eb37-4cdf-b9b0-82107b628794"
+                    ],
+                    "skills": [
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998"
+                    ],
+                    "averageDuration": {
+                        "days": 0,
+                        "hours": 6
+                    }
+                },
+                {
+                    "_id": "6",
+                    "prerequisites": [
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998"
+                    ],
+                    "skills": [
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26"
+                    ],
+                    "averageDuration": {
+                        "days": 7,
+                        "hours": 6
+                    }
+                },
+                {
+                    "_id": "7",
+                    "prerequisites": [
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/0af062de-eb43-41e9-9b96-249e2cd22d26"
+                    ],
+                    "skills": [
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a",
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/8b94aa1e-89c9-459d-b3b4-1dfab8dec2df",
+                        "https://ec.europa.eu/esco/api/resource/skill?uri=http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e"
+                    ],
+                    "averageDuration": {
+                        "days": 12,
+                        "hours": 6
+                    }
+                }
+    ], "message"
+]
